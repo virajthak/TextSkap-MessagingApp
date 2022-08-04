@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795945502256",
+    "project_id": "textskap-dceab",
+    "storage_bucket": "textskap-dceab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795945502256:android:783773c08e892238becff5",
+        "android_client_info": {
+          "package_name": "com.vgt.textskap_messagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795945502256-vkdunke6ml2n96hovkdg7nhspbarfeuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5OmXPUw5kPkG9fCULEqwjfbqcry_f2Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795945502256-vkdunke6ml2n96hovkdg7nhspbarfeuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
